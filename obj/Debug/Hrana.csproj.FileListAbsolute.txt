@@ -1,0 +1,8 @@
+C:\Users\rober\Desktop\Projekti\c#\Hrana\bin\Debug\Hrana.exe.config
+C:\Users\rober\Desktop\Projekti\c#\Hrana\bin\Debug\Hrana.exe
+C:\Users\rober\Desktop\Projekti\c#\Hrana\bin\Debug\Hrana.pdb
+C:\Users\rober\Desktop\Projekti\c#\Hrana\obj\Debug\Hrana.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\Projekti\c#\Hrana\obj\Debug\Hrana.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\Desktop\Projekti\c#\Hrana\obj\Debug\Hrana.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Projekti\c#\Hrana\obj\Debug\Hrana.exe
+C:\Users\rober\Desktop\Projekti\c#\Hrana\obj\Debug\Hrana.pdb
